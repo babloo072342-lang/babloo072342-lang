@@ -46,3 +46,24 @@ Focus     : Web Development & Digital Marketing
 Learning  : React, Node.js, Next.js
 Goal      : Build Premium Digital Products
 ```
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite" />
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase" />
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
+
+</div>
