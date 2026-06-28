@@ -36,3 +36,13 @@ I'm passionate about building modern websites, beautiful UI designs, and digital
 </a>
 
 </div>
+ ## 👨‍💻 About Me
+
+```yaml
+Name      : DareDevil
+Location  : India 🇮🇳
+Role      : Full Stack Developer
+Focus     : Web Development & Digital Marketing
+Learning  : React, Node.js, Next.js
+Goal      : Build Premium Digital Products
+```
