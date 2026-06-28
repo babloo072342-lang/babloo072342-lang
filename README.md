@@ -5,7 +5,7 @@
 <br>
 <div align="center">
 
-# 👋 Hi, I'm 𝐃𝐚𝐫𝐞𝐃𝐞𝐯𝐢𝐥
+# 👋 Hey, I'm 𝐃𝐚𝐫𝐞𝐃𝐞𝐯𝐢𝐥
 
 ### 🚀 Full Stack Developer • Digital Marketer • UI Designer
 
