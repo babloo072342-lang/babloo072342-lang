@@ -78,6 +78,13 @@ Goal      : Build Premium Digital Products
 <img src="https://streak-stats.demolab.com?user=babloo072342-lang&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=babloo072342-lang&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
 ## 🚀 Featured Projects
 
 <table>
