@@ -9,7 +9,7 @@
 
 ### 🚀 Full Stack Developer • Digital Marketer • UI Designer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Premium+Web+Experiences;Creating+Beautiful+UI%2FUX;Learning+Every+Day;Welcome+to+My+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=FF00FF,00FFF5,F5FF00&center=true&vCenter=true&width=900&lines=Building+Premium+Web+Experiences;Creating+Beautiful+UI%2FUX;Compiling+Dreams+Into+Code+%3C%2F%3E;Welcome+to+My+Digital+Realm!" />
 
 <br>
 
@@ -22,22 +22,28 @@
 I'm passionate about building modern websites, beautiful UI designs, and digital products that create real impact.
 
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="cyberpunk divider">
+</p>
+
 <div align="center">
 
 <a href="https://github.com/babloo072342-lang">
-<img src="https://komarev.com/ghpvc/?username=babloo072342-lang&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=babloo072342-lang&label=Profile%20Views&color=FF00FF&style=for-the-badge" />
 </a>
 
 <a href="https://github.com/babloo072342-lang?tab=followers">
-<img src="https://img.shields.io/github/followers/babloo072342-lang?logo=github&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/babloo072342-lang?logo=github&color=00FFF5&style=for-the-badge" />
 </a>
 
 <a href="https://github.com/babloo072342-lang">
-<img src="https://img.shields.io/github/stars/babloo072342-lang?affiliations=OWNER&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/babloo072342-lang?affiliations=OWNER&color=F5FF00&style=for-the-badge" />
 </a>
 
 </div>
- ## 👨‍💻 About Me
+
+## 👨‍💻 About Me
 
 ```yaml
 Name      : DareDevil
@@ -46,15 +52,20 @@ Role      : Full Stack Developer
 Focus     : Web Development & Digital Marketing
 Learning  : React, Node.js, Next.js
 Goal      : Build Premium Digital Products
+Status    : > Compiling life.exe... 99% done
 ```
+
 <div align="center">
 
-![](https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Focus-Full%20Stack-success?style=for-the-badge)
-![](https://img.shields.io/badge/Learning-React%20%7C%20Next.js-purple?style=for-the-badge)
-![](https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20Source-Lover-ff00ff?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![](https://img.shields.io/badge/Focus-Full%20Stack-00fff5?style=for-the-badge&logo=codeforces&logoColor=white)
+![](https://img.shields.io/badge/Learning-React%20%7C%20Next.js-f5ff00?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Portfolio-Coming%20Soon-ff0066?style=for-the-badge&logo=vercel&logoColor=white)
+![](https://img.shields.io/badge/Status-Online-39ff14?style=for-the-badge&logo=statuspage&logoColor=black)
+![](https://img.shields.io/badge/Mode-Night%20Owl%20Coder-9d00ff?style=for-the-badge&logo=nightowl&logoColor=white)
 
 </div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -76,6 +87,20 @@ Goal      : Build Premium Digital Products
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
 
 </div>
+
+## ⚡ Skill Matrix
+
+<div align="center">
+
+`HTML/CSS`       ████████████████████ 95%
+`JavaScript`     █████████████████░░░ 85%
+`React.js`       ███████████████░░░░░ 75%
+`Node.js`        █████████████░░░░░░░ 65%
+`Next.js`        ███████████░░░░░░░░░ 55%
+`UI/UX Design`   ████████████████░░░░ 80%
+
+</div>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -91,6 +116,15 @@ Goal      : Build Premium Digital Products
 <img src="https://streak-stats.demolab.com?user=babloo072342-lang&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=babloo072342-lang&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -98,6 +132,17 @@ Goal      : Build Premium Digital Products
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=babloo072342-lang&theme=tokyo-night&hide_border=true&radius=16"/>
 
 </div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/babloo072342-lang/babloo072342-lang/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+<sub>⚠️ Snake animation needs a one-time GitHub Action setup in your profile repo — ask if you want the workflow file for this.</sub>
+
+</div>
+
 ## 📊 Profile Summary
 
 <div align="center">
@@ -121,6 +166,7 @@ Goal      : Build Premium Digital Products
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=babloo072342-lang&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
+
 ## 🚀 Featured Projects
 
 <table>
@@ -131,20 +177,6 @@ Goal      : Build Premium Digital Products
 ### 🎂 Happy Birthday Wishing Website
 
 A premium responsive birthday wishing website with beautiful animations and modern UI.
-## 💡 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-## 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/58a6ff/babloo072342-lang" alt="Contribution Calendar"/>
-
-</div>
 
 **⚙️ Tech Stack**
 
@@ -178,6 +210,35 @@ A clean web app to organize and track NEET Zoology syllabus progress.
 
 </tr>
 </table>
+
+## 🎯 Achievements Unlocked
+
+<div align="center">
+
+![](https://img.shields.io/badge/🔥_Streak-Master-orange?style=for-the-badge)
+![](https://img.shields.io/badge/🐛_Bug-Squasher-red?style=for-the-badge)
+![](https://img.shields.io/badge/🌙_Night-Owl-9d00ff?style=for-the-badge)
+![](https://img.shields.io/badge/⚡_Speed-Coder-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/🧠_Problem-Solver-00fff5?style=for-the-badge)
+
+</div>
+
+## 💡 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+## 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/ff00ff/babloo072342-lang" alt="Contribution Calendar"/>
+
+</div>
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -195,6 +256,7 @@ A clean web app to organize and track NEET Zoology syllabus progress.
 </a>
 
 </div>
+
 ---
 
 <div align="center">
@@ -203,6 +265,6 @@ A clean web app to organize and track NEET Zoology syllabus progress.
 
 💙 If you like my work, don't forget to ⭐ my repositories.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8B5CF6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFF5,100:9D00FF&height=120&section=footer"/>
 
 </div>
