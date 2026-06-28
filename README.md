@@ -112,41 +112,45 @@ Goal      : Build Premium Digital Products
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🎂 Happy Birthday Wishing Website
 
-✨ Premium birthday wishing template with modern UI, animations and responsive design.
+A premium responsive birthday wishing website with beautiful animations and modern UI.
 
-**Tech Stack**
+**⚙️ Tech Stack**
+
 - HTML5
 - Tailwind CSS
 - JavaScript
 
-🔗 **Repository:**  
-https://github.com/babloo072342-lang/Happy-Birthday-Sadie
+**🔗 Links**
+
+- 💻 Repository: https://github.com/babloo072342-lang/Happy-Birthday-Sadie
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📚 NEET Zoology Syllabus Tracker
+### 📚 NEET Zoology Tracker
 
-A clean and simple project to organize and track NEET Zoology syllabus progress.
+A clean web app to organize and track NEET Zoology syllabus progress.
 
-**Tech Stack**
+**⚙️ Tech Stack**
+
 - HTML
 - CSS
 - JavaScript
 
-🔗 **Repository:**  
-https://github.com/babloo072342-lang/NEET-Zoology-syllabus-tracker
+**🔗 Links**
+
+- 💻 Repository: https://github.com/babloo072342-lang/NEET-Zoology-syllabus-tracker
 
 </td>
+
 </tr>
 </table>
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
