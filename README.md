@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="assets/banner/banner.png" width="100%">
+  <img src="assets/banner/banner.png" alt="DareDevil Banner" width="100%">
 </p>
+
+<br>
 <div align="center">
 
 # 👋 Hi, I'm 𝐃𝐚𝐫𝐞𝐃𝐞𝐯𝐢𝐥
