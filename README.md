@@ -27,6 +27,20 @@ I'm passionate about building modern websites, beautiful UI designs, and digital
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="cyberpunk divider">
 </p>
 
+## 🖥️ System Boot Sequence
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=39FF14&background=000000&center=true&vCenter=true&width=800&height=180&lines=root%40daredevil%3A~%24+whoami;%3E+DareDevil;root%40daredevil%3A~%24+cat+skills.txt;%3E+HTML+%7C+CSS+%7C+JS+%7C+React+%7C+Node.js+%7C+Next.js;root%40daredevil%3A~%24+./initialize_portfolio.sh;%3E+Access+Granted+%E2%9C%93;%3E+Welcome%2C+Operator." />
+
+<br>
+
+<img src="https://media.giphy.com/media/sjvSmlD3qbqLm/giphy.gif" width="100%" alt="matrix rain">
+
+<sub>🟢 SYSTEM STATUS: ONLINE &nbsp;|&nbsp; 🔐 ACCESS LEVEL: ADMIN &nbsp;|&nbsp; 🧠 MODE: HACKER</sub>
+
+</div>
+
 <div align="center">
 
 <a href="https://github.com/babloo072342-lang">
@@ -118,9 +132,11 @@ Status    : > Compiling life.exe... 99% done
 </div>
 
 ## 🏆 GitHub Trophies
- 
+
 <div align="center">
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=babloo072342-lang&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=babloo072342-lang&theme=tokyonight&no-frame=true&row=1&column=7" />
+
 </div>
 
 ## 📈 Contribution Graph
@@ -137,6 +153,7 @@ Status    : > Compiling life.exe... 99% done
 
 <img src="https://raw.githubusercontent.com/babloo072342-lang/babloo072342-lang/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
+<sub>⚠️ Snake animation needs a one-time GitHub Action setup in your profile repo — ask if you want the workflow file for this.</sub>
 
 </div>
 
