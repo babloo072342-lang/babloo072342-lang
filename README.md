@@ -120,7 +120,7 @@ Status    : > Compiling life.exe... 99% done
 ## 🏆 GitHub Trophies
  
 <div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=babloo072342-lang&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=babloo072342-lang&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ## 📈 Contribution Graph
