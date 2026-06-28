@@ -85,6 +85,29 @@ Goal      : Build Premium Digital Products
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=babloo072342-lang&theme=tokyo-night&hide_border=true&radius=16"/>
 
 </div>
+## 📊 Profile Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=babloo072342-lang&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=babloo072342-lang&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=babloo072342-lang&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=babloo072342-lang&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=babloo072342-lang&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
 ## 🚀 Featured Projects
 
 <table>
