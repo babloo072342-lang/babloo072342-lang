@@ -182,3 +182,14 @@ A clean web app to organize and track NEET Zoology syllabus progress.
 </a>
 
 </div>
+---
+
+<div align="center">
+
+### ⭐ Thanks for Visiting My Profile ⭐
+
+💙 If you like my work, don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8B5CF6&height=120&section=footer"/>
+
+</div>
