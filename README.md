@@ -67,3 +67,18 @@ Goal      : Build Premium Digital Products
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
 
 </div>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=babloo072342-lang&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babloo072342-lang&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=babloo072342-lang&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
