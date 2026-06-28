@@ -129,8 +129,8 @@ https://github.com/babloo072342-lang/NEET-Zoology-syllabus-tracker
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
 
-<a href="https://t.me/dare_devil_dev">
-<img src="https://skillicons.dev/icons?i=telegram" height="48"/>
+<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="48" alt="Telegram"/>
 </a>
 
 </div>
