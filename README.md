@@ -8,12 +8,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=babloo072342-lang&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/babloo072342-lang?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/babloo072342-lang?affiliations=OWNER&style=for-the-badge"/>
-
 </div>
 
 <div align="center">
