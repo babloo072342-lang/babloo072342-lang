@@ -118,6 +118,13 @@ Goal      : Build Premium Digital Products
 ### 🎂 Happy Birthday Wishing Website
 
 A premium responsive birthday wishing website with beautiful animations and modern UI.
+## 💡 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 **⚙️ Tech Stack**
 
