@@ -82,3 +82,40 @@ Goal      : Build Premium Digital Products
 <img src="https://streak-stats.demolab.com?user=babloo072342-lang&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎂 Happy Birthday Wishing Website
+
+✨ Premium birthday wishing template with modern UI, animations and responsive design.
+
+**Tech Stack**
+- HTML5
+- Tailwind CSS
+- JavaScript
+
+🔗 **Repository:**  
+https://github.com/babloo072342-lang/Happy-Birthday-Sadie
+
+</td>
+
+<td width="50%">
+
+### 📚 NEET Zoology Syllabus Tracker
+
+A clean and simple project to organize and track NEET Zoology syllabus progress.
+
+**Tech Stack**
+- HTML
+- CSS
+- JavaScript
+
+🔗 **Repository:**  
+https://github.com/babloo072342-lang/NEET-Zoology-syllabus-tracker
+
+</td>
+</tr>
+</table>
