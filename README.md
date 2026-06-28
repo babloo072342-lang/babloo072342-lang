@@ -115,3 +115,22 @@ https://github.com/babloo072342-lang/NEET-Zoology-syllabus-tracker
 </td>
 </tr>
 </table>
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:daredevil072342@hotmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
+<a href="https://github.com/babloo072342-lang">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+<a href="https://t.me/dare_devil_dev">
+<img src="https://skillicons.dev/icons?i=telegram" height="48"/>
+</a>
+
+</div>
