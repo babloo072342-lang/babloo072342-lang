@@ -1,18 +1,20 @@
 <div align="center">
 
-# 🚀 𝐃𝐚𝐫𝐞𝐃𝐞𝐯𝐢𝐥
+# 👋 Hi, I'm 𝐃𝐚𝐫𝐞𝐃𝐞𝐯𝐢𝐥
 
-### Full Stack Developer • Digital Marketer • UI Engineer
+### 🚀 Full Stack Developer • Digital Marketer • UI Designer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+Premium+Web+Experiences;Frontend+Developer;Digital+Marketing+Strategist;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Premium+Web+Experiences;Creating+Beautiful+UI%2FUX;Learning+Every+Day;Welcome+to+My+GitHub!" />
 
 <br>
 
-> 💡 *"Turning ideas into premium digital experiences."*
+<img src="https://komarev.com/ghpvc/?username=babloo072342-lang&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/babloo072342-lang?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/babloo072342-lang?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
-
----
 
 <div align="center">
 
