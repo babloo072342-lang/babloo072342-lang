@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**babloo072342-lang/babloo072342-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 𝐃𝐚𝐫𝐞𝐃𝐞𝐯𝐢𝐥
 
-Here are some ideas to get you started:
+### Full Stack Developer • Digital Marketer • UI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+Premium+Web+Experiences;Frontend+Developer;Digital+Marketing+Strategist;Always+Learning+Something+New" alt="Typing SVG" />
+
+<br>
+
+> 💡 *"Turning ideas into premium digital experiences."*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Welcome to My GitHub Profile
+
+I'm passionate about building modern websites, beautiful UI designs, and digital products that create real impact.
+
+</div>
