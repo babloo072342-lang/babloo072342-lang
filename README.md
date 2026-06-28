@@ -47,6 +47,14 @@ Focus     : Web Development & Digital Marketing
 Learning  : React, Node.js, Next.js
 Goal      : Build Premium Digital Products
 ```
+<div align="center">
+
+![](https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Focus-Full%20Stack-success?style=for-the-badge)
+![](https://img.shields.io/badge/Learning-React%20%7C%20Next.js-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=for-the-badge)
+
+</div>
 ## 🛠️ Tech Stack
 
 <div align="center">
