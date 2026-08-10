@@ -153,8 +153,6 @@ Status    : > Compiling life.exe... 99% done
 
 <img src="https://raw.githubusercontent.com/babloo072342-lang/babloo072342-lang/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
-<sub>⚠️ Snake animation needs a one-time GitHub Action setup in your profile repo — ask if you want the workflow file for this.</sub>
-
 </div>
 
 ## 📊 Profile Summary
